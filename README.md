@@ -11,12 +11,13 @@ Sou comunicativo e adoro aprender coisas novas. Organização e dinamismo são a
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 [![anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusllourenco&show_icons=true&theme=merko)](https://github.com/mathetusllourenco/github-readme-stats)
-
+<!--
 # Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusllourenco&repo=projeto_helpet))](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusllourenco&repo=matheusllourenco.github.io))](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ### Contato 📱
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/matheusllourenco/)
 
 <!--
 **matheusllourenco/matheusllourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
