@@ -15,7 +15,7 @@ Sou comunicativo e adoro aprender coisas novas. Organização e dinamismo são a
 [![anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusllourenco&show_icons=true&theme=merko)](https://github.com/mathetusllourenco/github-readme-stats)
 
 # Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusllourenco&repo=portifolio)](https://github.com/matheusllourenco/portifolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PROJETO-HELPET&repo=projeto_helpet)](https://github.com/PROJETO-HELPET/projeto_helpet)
 
 
 ### Contato 📱
