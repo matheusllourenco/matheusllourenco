@@ -3,7 +3,7 @@
 
 ### Sobre
 
-Sou comunicativo e adoro aprender coisas novas. Organização e dinamismo são algumas das minhas principais características. Sou apaixonado pela área de tecnologia e games e me dedico aos estudos dos temas nas mais variadas fontes (bootcamps, workshops, lives e conversas e discussões com pessoas na área).
+Sou o matheus, estudante de desenvolvimento web. Sou comunicativo e adoro aprender coisas novas. Sou apaixonado pela área de tecnologia e games e me dedico aos estudos dos temas nas mais variadas fontes (bootcamps, workshops, lives e conversas e discussões com pessoas na área).
 
 ![javaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
